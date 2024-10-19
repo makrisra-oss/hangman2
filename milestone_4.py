@@ -1,3 +1,4 @@
+"""Milestone 4"""
 import random
 
 class Hangman:

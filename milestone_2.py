@@ -1,3 +1,4 @@
+"""Milestone 2"""
 import random
 
 word_list = ["banana", "apple", "pear", "orange", "grapes"]
